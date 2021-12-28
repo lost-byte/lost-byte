@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lost-byte
 - 👀 I’m interested in electronics and progrmming
 - 🌱 I’m currently learning ML and old-good AI
-- 💞️ I’m looking to collaborate on interesting hobbists projects
+- 💞️ I’m looking to collaborate on interesting hobbist projects
 - 📫 How to reach me: e-mail:eyermac@yandex.ru
 
 <!---
